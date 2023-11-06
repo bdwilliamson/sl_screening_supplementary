@@ -25,3 +25,7 @@ This, in turn, calls `submit_all_screening_sims.sh` (submit all simulations for 
 The main R code for the simulation is in `run_screening_sim.R` (runs the simulation for a specified set of parameters a set number of times, saves results) and `do_one.R` (run the simulation a single time). The data-generating mechanisms are specified in `gen_data.R`. Generally-useful functions are defined in `utils.R`. Screening algorithms are defined in `sl_screens.R`.
 
 Once all simulations have finished, run `build_csv.R` (which calls `read_data.R`) to compile all output; then run `plot_performance_metrics.R` to create plots with results.
+
+# Issues
+
+If you encounter any bugs or have specific questions about the analysis, please [file an issue](https://github.com/bdwilliamson/sl_screening_supplementary/issues).
