@@ -1,6 +1,6 @@
 # Supplementary materials for the SL screening paper
 
-This repository contains code to reproduce the analyses in ["Practical considerations for variable screening in the super learner"](https://arxiv.org/abs/2311.03313) by Williamson, King, and Huang. All analyses were implemented in the freely available `R` programming language (version 4.0.2). 
+This repository contains code to reproduce the analyses in ["Practical considerations for variable screening in the super learner"](https://arxiv.org/abs/2311.03313) by Williamson, King, and Huang, to be published in the _New England Journal of Statistics in Data Science_. All analyses were implemented in the freely available `R` programming language (version 4.0.2). 
 
 This README file provides an overview of the code available in the repository.
 
